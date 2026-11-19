@@ -12,26 +12,30 @@ I build software from the inside out: operating systems, desktop tools, and web 
 
 ---
 
-### A little about me
+### 👨‍💻 A little about me
 
 - Building **[bOS](https://github.com/dr-lexus-dr/bos)**, a terminal-first operating system for x86-64 UEFI, written in Rust.
 - Creating useful tools with **Python**, including **[bSORT](https://github.com/dr-lexus-dr/bSORT)**, a desktop file organiser.
 - Founder of **[Musorum](https://musorum.com)** and part of the **[fourtexec](https://github.com/fourtexec)** engineering crew.
 - Interested in systems programming, automation, and open source.
 
-### Technologies in my projects
+### 🛠️ Technologies in my projects
 
 <p>
-  <img src="assets/rust.svg" alt="Rust" height="36" />
-  <img src="assets/python.svg" alt="Python" height="36" />
-  <img src="assets/html.svg" alt="HTML" height="36" />
-  <img src="assets/css.svg" alt="CSS" height="36" />
-  <img src="assets/javascript.svg" alt="JavaScript" height="36" />
+  <img src="assets/rust.svg" alt="Rust" title="Rust" width="42" height="42" />&nbsp;
+  <img src="assets/python.svg" alt="Python" title="Python" width="42" height="42" />&nbsp;
+  <img src="assets/html.svg" alt="HTML" title="HTML" width="42" height="42" />&nbsp;
+  <img src="assets/css.svg" alt="CSS" title="CSS" width="42" height="42" />&nbsp;
+  <img src="assets/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />&nbsp;
+  <img src="assets/git.svg" alt="Git" title="Git" width="42" height="42" />&nbsp;
+  <img src="assets/bash.svg" alt="Bash" title="Bash" width="42" height="42" />&nbsp;
+  <img src="assets/github.svg" alt="GitHub" title="GitHub" width="42" height="42" />&nbsp;
+  <img src="assets/opencv.svg" alt="OpenCV" title="OpenCV" width="42" height="42" />&nbsp;
 </p>
 
 Rust / no_std · Python / CustomTkinter / OpenCV · HTML / CSS / JavaScript
 
-### Selected projects
+### 🚀 Selected projects
 
 | Project | What I'm building | Technologies |
 | :--- | :--- | :--- |
@@ -40,38 +44,6 @@ Rust / no_std · Python / CustomTkinter / OpenCV · HTML / CSS / JavaScript
 | **[ASCII Image Creator](https://github.com/dr-lexus-dr/ASCII-Image-Creator)** | An image-to-text experiment using grayscale character mapping. | Python, OpenCV |
 | **[Cesar](https://github.com/dr-lexus-dr/Cesar)** | Caesar cipher encryption and decryption utilities. | Python |
 | **[Calculator Collection](https://github.com/dr-lexus-dr/Calculator-Collection)** | A collection of Python calculator implementations. | Python |
-
-### Explore the work
-
-```mermaid
-flowchart LR
-    L["Lexus / dr-lexus-dr"] --> S[Systems]
-    L --> T[Desktop tools]
-    L --> W[Web & products]
-    S --> B["bOS · Rust"]
-    T --> F["bSORT · Python"]
-    T --> A["ASCII Image Creator"]
-    W --> M[Musorum]
-    W --> E[fourtexec]
-    classDef accent fill:#eaf4e5,stroke:#46752d,color:#20331c
-    class L,B,F,A,M,E accent
-```
-
-### Inside bOS
-
-A simplified map of the project. See the [architecture](https://github.com/dr-lexus-dr/bos/blob/main/docs/ARCH.md) and [current status](https://github.com/dr-lexus-dr/bos/blob/main/docs/STATUS.md) for implementation details and limitations.
-
-```mermaid
-flowchart TB
-    U["x86-64 UEFI"] --> K["Rust kernel · no_std"]
-    K --> P["Userspace · PID 1"]
-    P --> S["bSH shell"]
-    S --> A["Applications · ELF64"]
-    K --> V["VFS / bFS"]
-    V --> D["Persistent disk in QEMU"]
-    classDef accent fill:#eaf4e5,stroke:#46752d,color:#20331c
-    class K,S,V accent
-```
 
 ---
 
