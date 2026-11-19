@@ -33,16 +33,6 @@ I build software from the inside out: operating systems, desktop tools, and web 
   <img src="assets/opencv-logo.svg" alt="OpenCV" title="OpenCV" width="52" height="52" />&nbsp;
 </p>
 
-Rust / no_std · Python / CustomTkinter / OpenCV · HTML / CSS / JavaScript
-
-### 🚀 Selected projects
-
-- **[bOS](https://github.com/dr-lexus-dr/bos)** · A terminal-first operating system in Rust. In development.
-- **[bSORT](https://github.com/dr-lexus-dr/bSORT)** · A desktop file organiser built with Python.
-- **[ASCII Image Creator](https://github.com/dr-lexus-dr/ASCII-Image-Creator)** · Image-to-text experiments with OpenCV.
-- **[Cesar](https://github.com/dr-lexus-dr/Cesar)** · Caesar cipher utilities.
-- **[Calculator Collection](https://github.com/dr-lexus-dr/Calculator-Collection)** · Python calculator implementations.
-
 ---
 
 <div align="center">
