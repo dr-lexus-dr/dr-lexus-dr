@@ -22,15 +22,15 @@ I build software from the inside out: operating systems, desktop tools, and web 
 ### 🛠️ Technologies in my projects
 
 <p>
-  <img src="assets/rust.svg" alt="Rust" title="Rust" width="42" height="42" />&nbsp;
-  <img src="assets/python.svg" alt="Python" title="Python" width="42" height="42" />&nbsp;
-  <img src="assets/html.svg" alt="HTML" title="HTML" width="42" height="42" />&nbsp;
-  <img src="assets/css.svg" alt="CSS" title="CSS" width="42" height="42" />&nbsp;
-  <img src="assets/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />&nbsp;
-  <img src="assets/git.svg" alt="Git" title="Git" width="42" height="42" />&nbsp;
-  <img src="assets/bash.svg" alt="Bash" title="Bash" width="42" height="42" />&nbsp;
-  <img src="assets/github.svg" alt="GitHub" title="GitHub" width="42" height="42" />&nbsp;
-  <img src="assets/opencv.svg" alt="OpenCV" title="OpenCV" width="42" height="42" />&nbsp;
+  <img src="assets/rust-logo.svg" alt="Rust" title="Rust" width="52" height="52" />&nbsp;
+  <img src="assets/python-logo.svg" alt="Python" title="Python" width="52" height="52" />&nbsp;
+  <img src="assets/html-logo.svg" alt="HTML" title="HTML" width="52" height="52" />&nbsp;
+  <img src="assets/css-logo.svg" alt="CSS" title="CSS" width="52" height="52" />&nbsp;
+  <img src="assets/javascript-logo.svg" alt="JavaScript" title="JavaScript" width="52" height="52" />&nbsp;
+  <img src="assets/git-logo.svg" alt="Git" title="Git" width="52" height="52" />&nbsp;
+  <img src="assets/bash-logo.svg" alt="Bash" title="Bash" width="52" height="52" />&nbsp;
+  <img src="assets/github-logo.svg" alt="GitHub" title="GitHub" width="52" height="52" />&nbsp;
+  <img src="assets/opencv-logo.svg" alt="OpenCV" title="OpenCV" width="52" height="52" />&nbsp;
 </p>
 
 Rust / no_std · Python / CustomTkinter / OpenCV · HTML / CSS / JavaScript
